@@ -1,0 +1,47 @@
+#display {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 1em;
+    border: 1px solid #cccccc;
+    padding: 1em;
+    border-radius: 2px;
+}
+#display-comment {
+    padding: 1em;
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    background-color: palegoldenrod;
+}
+.reply {
+    font-size: 0.9rem;
+    margin-left: 3em;
+    color: red;
+}
+.reply-input {
+    width: 193px;
+    outline: none;
+}
+#reply-btn {
+    border: 1px solid dodgerblue;
+    color: dodgerblue;
+    outline: none;
+    background-color: white;
+    margin-top: 1em;
+}
+#reply-btn:hover {
+    color: red;
+    border-color: red;
+    cursor: pointer;
+}
+#reply-btn-new {
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+    border-radius: 2px;
+    outline: none;
+    cursor: pointer;
+}
+#reply-btn-new:hover {
+    background-color: white;
+    color: dodgerblue;
+}

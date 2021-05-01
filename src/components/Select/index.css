@@ -1,0 +1,7 @@
+.select-div {
+    display: flex;
+}
+#username {
+    width: 200px;
+    outline: none;
+}
