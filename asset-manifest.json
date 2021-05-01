@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cashfree-comments-module/static/css/main.af2ee4c2.chunk.css",
+    "main.js": "/cashfree-comments-module/static/js/main.ea6006d8.chunk.js",
+    "main.js.map": "/cashfree-comments-module/static/js/main.ea6006d8.chunk.js.map",
+    "runtime-main.js": "/cashfree-comments-module/static/js/runtime-main.f92a90e7.js",
+    "runtime-main.js.map": "/cashfree-comments-module/static/js/runtime-main.f92a90e7.js.map",
+    "static/js/2.7b23e6ed.chunk.js": "/cashfree-comments-module/static/js/2.7b23e6ed.chunk.js",
+    "static/js/2.7b23e6ed.chunk.js.map": "/cashfree-comments-module/static/js/2.7b23e6ed.chunk.js.map",
+    "static/js/3.bc0c5288.chunk.js": "/cashfree-comments-module/static/js/3.bc0c5288.chunk.js",
+    "static/js/3.bc0c5288.chunk.js.map": "/cashfree-comments-module/static/js/3.bc0c5288.chunk.js.map",
+    "index.html": "/cashfree-comments-module/index.html",
+    "static/css/main.af2ee4c2.chunk.css.map": "/cashfree-comments-module/static/css/main.af2ee4c2.chunk.css.map",
+    "static/js/2.7b23e6ed.chunk.js.LICENSE.txt": "/cashfree-comments-module/static/js/2.7b23e6ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f92a90e7.js",
+    "static/js/2.7b23e6ed.chunk.js",
+    "static/css/main.af2ee4c2.chunk.css",
+    "static/js/main.ea6006d8.chunk.js"
+  ]
+}
